@@ -1,0 +1,23 @@
+{
+  "name": "logrc",
+  "version": "1.0.0",
+  "description": "A web application that allows you to store information about your RC hobby.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "remote",
+    "remote-control",
+    "control",
+    "log",
+    "logging",
+    "logger"
+  ],
+  "author": "travis.olbrich@gmail.com",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^1.5.0-beta",
+    "tsd": "^0.6.3"
+  }
+}
